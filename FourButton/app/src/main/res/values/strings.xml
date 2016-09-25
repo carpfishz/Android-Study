@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FourButton</string>
+    <string name="strBtnGoogle">Google 사이트 열기</string>
+    <string name="strBtnCall">911 응급전화 걸기</string>
+    <string name="strBtnOpenGalley">갤러리 열기</string>
+    <string name="strBtnClose">끝내기</string>
+</resources>
