@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setTitle("테이블레이아웃 계산기");
+        setTitle("그리드레이아웃 계산기");
 
         edit1 = (EditText) findViewById(R.id.Edit1);
         edit2 = (EditText) findViewById(R.id.Edit2);
